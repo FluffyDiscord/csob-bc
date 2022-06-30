@@ -15,19 +15,13 @@
     "ext-soap": "*",
     "php": ">= 7.1",
     "nette/di": "^2.4 || ~3.0.0",
-    "guzzlehttp/guzzle": "^6.3",
+    "guzzlehttp/guzzle": ">= 6.3",
     "ext-curl": "*",
     "ext-iconv": "*",
     "moneyphp/money": "^4.0",
     "ext-simplexml": "*",
     "ext-libxml": "*",
     "ext-dom": "*"
-  },
-  "require-dev": {
-    "ninjify/qa": "^0.8.0",
-    "ninjify/nunjuck": "^0.2.0",
-    "mockery/mockery": "^1.2",
-    "ext-simplexml": "*"
   },
   "autoload": {
     "psr-4": {
